@@ -1,5 +1,5 @@
 
-# Go + Next.js Fullstack Application
+# Go + Fiber + Next.js Fullstack Application
 
 This is a **Fullstack CRUD Application** built with a Go backend and a Next.js frontend. It demonstrates fundamental CRUD operations (Create, Read, Update, Delete) with a seamless integration of modern backend and frontend technologies.
 
