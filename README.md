@@ -138,10 +138,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
---- 
-
-Let me know if you need help updating your repository with this file!
