@@ -39,7 +39,7 @@ This application allows users to perform CRUD operations on a database. It uses 
 ### Backend
 - **Go**: For building a high-performance REST API.
 - **Fiber**: A Go web framework inspired by Express.js.
-- **SQLite/Redis/PostgreSQL**: (Replace with the database you're using.)
+- **Redis**: For in-memory data storage and caching.
 
 ### Frontend
 - **Next.js**: A React framework with server-side rendering and static site generation.
