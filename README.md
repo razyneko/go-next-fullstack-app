@@ -1,4 +1,3 @@
----
 
 # Go + Next.js Fullstack Application
 
