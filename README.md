@@ -1,5 +1,3 @@
-Certainly! Here's a detailed `README.md` for your GitHub repository. Let me know if you'd like any further customization.
-
 ---
 
 # Go + Next.js Fullstack Application
